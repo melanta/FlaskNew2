@@ -1,0 +1,5 @@
+
+{
+    "firstname": "{{name['firstname']}}",
+    "lastname":  "{{name.lastname}}
+}
